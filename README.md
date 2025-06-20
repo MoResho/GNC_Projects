@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud Harhash</h1>
-<h3 align="center">A passionate GNC Engineer from Egypt</h3>
+<h3 align="center">A passionate GNC Engineer from Egypt and This is a Collection of My Guidance, Navigation, and Control (GNC) Projects</h3>
 
 - 📫 How to reach me **mohamedmahmoudharhash@gmail.com**
 
